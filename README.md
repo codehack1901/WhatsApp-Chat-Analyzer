@@ -52,7 +52,7 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to contact the project maintainer at niteshim111@gmail.com.
+If you have any questions, suggestions, or feedback, feel free to contact the project maintainer at kaushalraj0119@gmail.com.
 
 
 
