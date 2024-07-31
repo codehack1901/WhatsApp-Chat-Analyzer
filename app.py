@@ -44,7 +44,7 @@ if uploaded_file is None:
     st.markdown(
         '''Afterward, kindly proceed to click on the "Show Analysis" button. This action will generate a variety of insights concerning your conversation.''')
     st.markdown('Thank You!')
-    st.markdown('Nitesh Kushwaha')
+    st.markdown('Kaushal Raj')
 
 if uploaded_file is not None:
     bytes_data = uploaded_file.getvalue()
